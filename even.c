@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-int n;
+long n;
 scanf("%d",&n);
 if(n%2==0)
 {
